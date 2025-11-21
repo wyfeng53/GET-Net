@@ -97,6 +97,3 @@ When `--is_training 0`, the script loads the checkpoint specified by `--model_pa
 ## Results & Logs
 - Intermediate artifacts (metrics, tables, qualitative analyses) are written to `results/`.
 - Console outputs plus per-epoch statistics are mirrored to `logs/LongForecasting/` for later inspection.
-
-## Contact
-For issues or collaboration requests, please open a GitHub issue or reach out via email (replace with your address).
