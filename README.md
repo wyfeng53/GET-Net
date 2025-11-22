@@ -1,4 +1,4 @@
-# Geometry-Aware PatchTST for Flight Trajectory Forecasting
+# GET-Net: A Geometry-Embedded Time-Series Network for Flight Trajectory Prediction in Air Traffic Management
 
 ## Introduction
 This repository operationalizes the GET-Net prototype (``GET-Net: A Geometry-Embedded Time-Series Network for Flight Trajectory Prediction in Air Traffic Management``) inside a geometry-aware PatchTST harness. The backbone keeps PatchTST’s temporal modeling while injecting spherical-Earth priors and kinematic cues so forecasts stay on great-circle tracks in cruise yet remain agile through sharp turns or terminal maneuvers.
