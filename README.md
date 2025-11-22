@@ -10,7 +10,6 @@ The code mirrors the paper’s two-branch design—PatchTST for long-range tempo
 patchTST_changed1/
 │  run_longExp.py            # Unified CLI entry for training / evaluation
 │  README.md                 # This document
-│  __init__.py
 ├─data_provider/             # Dataset factories and trajectory loaders
 ├─exp/                       # Experiment manager (Exp_Main, logging helpers)
 ├─layers/                    # Embeddings, PatchTST backbone, attention blocks
